@@ -12,3 +12,4 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print("Fahrenheit:", round(fahrenheit, 1), "°F")
+print("Kelvin:", round(celsius + 273.15, 2), "K")
